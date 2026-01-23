@@ -1,5 +1,0 @@
-Link: https://colab.research.google.com/drive/1X0GuZ0wCAsVnuT-Sb4RedvsIqJbjnm5a?usp=sharing
-
-ML-based prediction of bioactivity of small molecules for potential drug discovery.
-Collected bioactivity data (pIC50), generated molecular fingerprints, and built QSAR models.
-Evaluated model performance using R² and MAE; next steps include optimisation and deployment.
