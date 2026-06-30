@@ -30,7 +30,7 @@ This main README provides a high-level overview, while individual project files 
 
 # Projects
 
-## 1. Explainable AI Modeling of Non-Coding RNA in the Tumor Microenvironment
+## 1. Explainable AI Identifies NEAT1-Associated Metabolic Reprogramming in Immune-Excluded Tumor Microenvironment
 
 A research project using explainable AI (XAI) and single-cell RNA sequencing (scRNA-seq) to investigate how long non-coding RNAs (lncRNAs), particularly **NEAT1**, are associated with immune exclusion and tumor metabolism in lung cancer.
 
